@@ -1,0 +1,1 @@
+https://stackoverflow.com/questions/29975152/intellisense-not-automatically-working-vscode

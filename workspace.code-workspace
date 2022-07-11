@@ -1,0 +1,18 @@
+{
+	"folders": [
+		{
+			"path": "PlatformService"
+		},
+		{
+			"path": "CommandsService"
+		},
+		{
+			"path": "K8S"
+		},
+		{
+			"name": "microserviceTutorial",
+			"path": "../microserviceTutorial"
+		}
+	],
+	"settings": {}
+}
