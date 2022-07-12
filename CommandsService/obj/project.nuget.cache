@@ -1,11 +1,16 @@
 {
   "version": 2,
-  "dgSpecHash": "1/Su822TGrLOUzgBJPbqEQ0emfRu660h4OUFDFQNlhyb/6nvNEidO7ZU/bxhYJ3ko6nu5f3sfPEWUhitshwuVw==",
+  "dgSpecHash": "DSIu8cx1+Qol9Q8pjglF31liicNWo+JGGWbX6lNzsJ6eEHDF4RD+QNJqG4sWJqD7ufoJRpl8lcevf9TSjmydrw==",
   "success": true,
   "projectFilePath": "/Users/olakitan/Documents/repo/microserviceTutorial/CommandsService/CommandsService.csproj",
   "expectedPackageFiles": [
     "/Users/olakitan/.nuget/packages/automapper/11.0.0/automapper.11.0.0.nupkg.sha512",
     "/Users/olakitan/.nuget/packages/automapper.extensions.microsoft.dependencyinjection/11.0.0/automapper.extensions.microsoft.dependencyinjection.11.0.0.nupkg.sha512",
+    "/Users/olakitan/.nuget/packages/google.protobuf/3.21.2/google.protobuf.3.21.2.nupkg.sha512",
+    "/Users/olakitan/.nuget/packages/grpc.core.api/2.47.0/grpc.core.api.2.47.0.nupkg.sha512",
+    "/Users/olakitan/.nuget/packages/grpc.net.client/2.47.0/grpc.net.client.2.47.0.nupkg.sha512",
+    "/Users/olakitan/.nuget/packages/grpc.net.common/2.47.0/grpc.net.common.2.47.0.nupkg.sha512",
+    "/Users/olakitan/.nuget/packages/grpc.tools/2.47.0/grpc.tools.2.47.0.nupkg.sha512",
     "/Users/olakitan/.nuget/packages/humanizer.core/2.8.26/humanizer.core.2.8.26.nupkg.sha512",
     "/Users/olakitan/.nuget/packages/microsoft.csharp/4.7.0/microsoft.csharp.4.7.0.nupkg.sha512",
     "/Users/olakitan/.nuget/packages/microsoft.entityframeworkcore/6.0.6/microsoft.entityframeworkcore.6.0.6.nupkg.sha512",

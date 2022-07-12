@@ -36,3 +36,7 @@
 /Users/olakitan/Documents/repo/microserviceTutorial/CommandsService/obj/Debug/net6.0/ref/CommandsService.dll
 /Users/olakitan/Documents/repo/microserviceTutorial/CommandsService/bin/Debug/net6.0/appsettings.Production.json
 /Users/olakitan/Documents/repo/microserviceTutorial/CommandsService/bin/Debug/net6.0/RabbitMQ.Client.dll
+/Users/olakitan/Documents/repo/microserviceTutorial/CommandsService/bin/Debug/net6.0/Google.Protobuf.dll
+/Users/olakitan/Documents/repo/microserviceTutorial/CommandsService/bin/Debug/net6.0/Grpc.Core.Api.dll
+/Users/olakitan/Documents/repo/microserviceTutorial/CommandsService/bin/Debug/net6.0/Grpc.Net.Client.dll
+/Users/olakitan/Documents/repo/microserviceTutorial/CommandsService/bin/Debug/net6.0/Grpc.Net.Common.dll
