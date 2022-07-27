@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "DSIu8cx1+Qol9Q8pjglF31liicNWo+JGGWbX6lNzsJ6eEHDF4RD+QNJqG4sWJqD7ufoJRpl8lcevf9TSjmydrw==",
+  "dgSpecHash": "mXH3uikuLPdnWp7PokJS8VndybQ/FA7ohxV5cBuhFksTQp0uqOcXa2gCgug4qvpfIv97moFNtBkaz/eJbOyHQQ==",
   "success": true,
   "projectFilePath": "/Users/olakitan/Documents/repo/microserviceTutorial/CommandsService/CommandsService.csproj",
   "expectedPackageFiles": [

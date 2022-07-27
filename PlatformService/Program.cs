@@ -10,9 +10,11 @@ var builder = WebApplication.CreateBuilder(args);
 builder.WebHost.ConfigureKestrel(options => 
 {
     // Setup a HTTP/2 endpoint without TLS.
-    options.ListenLocalhost(5051, o => o.Protocols =
+    var grpcLocalHttp2Port = builder.Configuration.GetValue<int>("localhosthttp2");
+    var grpcLocalHostPort = builder.Configuration.GetValue<int>("localhost");
+    options.ListenLocalhost(grpcLocalHttp2Port, o => o.Protocols =
         HttpProtocols.Http2);
-    options.ListenLocalhost(7147);
+    options.ListenLocalhost(grpcLocalHostPort);
 });
 
 // Add services to the container.
